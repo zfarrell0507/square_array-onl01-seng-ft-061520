@@ -4,6 +4,4 @@ def square_array(numbers)
     array.each do |number|
     #{number} ** 2
   end
-  numbers
-  num
 end
