@@ -5,3 +5,5 @@ def square_array(numbers)
     #{number} ** 2
   end
 end
+  numbers
+  num
