@@ -5,5 +5,5 @@ def square_array(numbers)
   num << number ** 2
   end
 end
-  puts numbers
-  puts num
+  numbers
+  num
